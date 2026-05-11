@@ -1,0 +1,16 @@
+[
+  {
+    "date": "2026-05-11",
+    "views": 1,
+    "visitors": 0,
+    "countries": {
+      "ID": 1
+    },
+    "devices": {
+      "desktop": 1
+    },
+    "pages": {
+      "/": 1
+    }
+  }
+]
